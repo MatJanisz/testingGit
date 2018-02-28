@@ -6,5 +6,6 @@ int main()
 	cout<<"Hello World2";
 	cout<<"Hello World4";
 	cout<<"Small Hello World5";
+	cout<<"Modufikacja v2";
 	return 0;
 }
